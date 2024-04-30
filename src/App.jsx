@@ -20,7 +20,7 @@ function App() {
       setBmi(bmi.toFixed(1));
       //message logic to check the underweight or not
       if(bmi < 18.5){
-        setMessage("you are under weight ! weak go Gym");
+        setMessage("you are under weight ! weak go Gym jaldiiii");
       }
       else if(bmi >= 18.5 && bmi <= 24.9){
         setMessage("you are healthy ! nice");
